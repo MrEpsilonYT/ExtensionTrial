@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Extension Pepsy",
   "version": "1.0",
-  "description": "This is a Trial Version Of Pepsy's New Extension",
+  "description": "Reading Time",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
